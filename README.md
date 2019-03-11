@@ -10,6 +10,12 @@
 ## 教員やインストラクター向けの環境構築マニュアル
 * [教員・インストラクター向け資料: ドローンプログラミングの準備](https://github.com/akokubo/scratch-tello/raw/master/scratch-tello-for-teacher.pptx)
 
+## 日本語化したScratchのTello機能拡張の例
+* [日本語化したScratchのTello機能拡張の例](https://github.com/akokubo/scratch-tello/raw/master/TelloJp.s2e)
+
+## Node.jsを起動するバッチファイルの例
+* [Node.jsを起動するバッチファイルの例](https://github.com/akokubo/scratch-tello/raw/master/tello.bat)
+
 ## 教材の作者
 
 八戸工業大学工学部システム情報工学科 平成30年度小久保温研究室所属 佐藤利樹

@@ -1,0 +1,17 @@
+{ 	"extensionName": "Tello Control",
+ 	"extensionPort": 8001,
+ 	"blockSpecs": [
+		[" ", "離陸", "takeoff"],
+		[" ", "着陸", "land"],
+		[" ", "%n cm上昇", "up", 20],
+		[" ", "%n cm下降", "down", 20],
+		[" ", "左へ %n cm移動", "left", 20],
+		[" ", "右へ %n cm移動", "right", 20],
+		[" ", "前へ %n cm移動", "forward", 20],
+		[" ", "後へ %n cm移動", "back", 20],
+		[" ", "時計まわりに %n 度回転", "cw", 90],
+		[" ", "反時計まわりに %n 度回転", "ccw", 90],
+		[" ", "%s でフリップ", "flip", "f"],
+		[" ", "速度を %n に設定", "setspeed", 80],		
+ 	]
+}
